@@ -1,0 +1,98 @@
+body {
+	background-color: black;
+	color: white;
+}
+
+p {
+	font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+	color: #fff59d;
+	border-style: dotted; 
+	border-color: white;
+}
+
+.header {
+	margin-right: 100px;
+	margin-top: 30px;
+}
+
+.header-image {
+	width: 500px;
+	float: right;
+}
+
+.stats {
+	color: white;
+}
+
+.main-game {
+	position: absolute;
+	top: 350px;
+	right: 300px;
+	font-size: 25px;
+	color: #FFFFDF;
+}
+
+.hide1 {
+	background-color: black;
+	color: black;
+	width: 100px;
+	height: 50px;
+	position: fixed;
+	top: 210px;
+	left: 350px;
+}
+
+.hide2 {
+	background-color: black;
+	color: black;
+	width: 50px;
+	height: 65px;
+	position: fixed;
+	top: 260px;
+	left: 350px;
+}
+
+.hide3 {
+	background-color: black;
+	color: black;
+	width: 50px;
+	height: 65px;
+	position: fixed;
+	top: 260px;
+	left: 400px;
+}
+
+.hide4 {
+	background-color: black;
+	color: black;
+	width: 50px;
+	height: 130px;
+	position: fixed;
+	top: 320px;
+	left: 400px;
+}
+
+.hide5 {
+	background-color: black;
+	color: black;
+	width: 50px;
+	height: 130px;
+	position: fixed;
+	top: 320px;
+	left: 350px;
+}
+
+.hide6 {
+	background-color: black;
+	color: black;
+	width: 100px;
+	height: 50px;
+	position: fixed;
+	top: 430px;
+	left: 350px;
+}
+
+#word {
+	color: white;
+}
+
